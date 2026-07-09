@@ -2,9 +2,9 @@
 
 A Convolutional Neural Network (CNN) that classifies dermatoscopic skin lesion images as **Benign** or **Malignant**, built as part of an internship in AI \& Machine Learning in Computational Biology at [BioTechTrek](https://biotechtrek.in).
 
-> ⚠️ \*\*Disclaimer:\*\* This is a student/academic project, \*\*not\*\* a certified medical device. It is not intended for real-world diagnostic use. 
+> ⚠️ **Disclaimer:** This is a student/academic project, **not** a certified medical device. It is not intended for real-world diagnostic use. 
 
-\---
+---
 
 ## 📋 Overview
 
