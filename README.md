@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29856752/README.md)
 # Skin Cancer Detection Using Deep Learning
 
 A Convolutional Neural Network (CNN) that classifies dermatoscopic skin lesion images as **Benign** or **Malignant**, built as part of an internship in AI \& Machine Learning in Computational Biology at [BioTechTrek](https://biotechtrek.in).
